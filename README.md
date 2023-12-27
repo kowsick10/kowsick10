@@ -1,7 +1,7 @@
 
 # Kowsick K
 
-work as a Junior software developer . I'm interested about developing cutting-edge solutions through ongoing learning and original problem-solving.
+I'm working as a Junior software developer . I'm interested about developing cutting-edge solutions through ongoing learning and original problem-solving.
 
 ## Skills: 
 * 💻.NetFramework
