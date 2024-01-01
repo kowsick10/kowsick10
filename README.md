@@ -1,9 +1,11 @@
 
 #  Hi!👋 I'm Kowsick K
 
-👨‍💻I'm currently learning.
-🌱I'm interested in developing sophisticated applications that solve small to important issues in daily life.
-👨‍💻I'm looking to collaborate on IoT related project 
+*👨‍💻I'm currently learning.
+
+*🌱I'm interested in developing sophisticated applications that solve small to important issues in daily life.
+
+*👨‍💻I'm looking to collaborate on Full Stack and AIML related project 
 
 ## Skills: 
 * 💻 HTML/ CSS /JS
