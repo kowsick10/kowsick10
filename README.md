@@ -1,6 +1,8 @@
 
 # Kowsick K
 ComputerScience and Engineering at Chennai Institute Of Technology 2022 To 2026.
+
+
 🌱I'm currently learning . I'm interested in developing sophisticated applications that solve small to important issues in daily life.
 
 ## Skills: 
