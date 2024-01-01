@@ -8,7 +8,7 @@ ComputerScience and Engineering at Chennai Institute Of Technology 2022 To 2026.
 ## Skills: 
 * 💻 HTML/ CSS /JS
 * 🐍 Python
-* 💻C,c++
+* 💻C,C++
 * 📲 Java
 
 
