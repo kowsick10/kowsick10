@@ -8,9 +8,11 @@
 👀I'm looking to collaborate on Full Stack and AIML Related project. 
 
 To reach me mail me at:
+
 kowsickkarthik007@gmail.com
 
 Linked in:
+
 https://www.linkedin.com/in/kowsick-k0710/
 
 ## Skills: 
