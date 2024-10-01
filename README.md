@@ -1,14 +1,31 @@
 
-#  Hi!👋 I'm Kowsick K
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm kowsick </h1>
+<p align="center">
+  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;Aspiring+Software+Developer+Engineer;Full+Stack+Web+Developer;DevOps+Engineer&center=true&width=500&height=50"></a>
+</p>
 
-👨‍💻I'm currently learning.
+<!--<h1 align="center">Hi 👋, I'm kowsick </h1>-->
 
-🌱I'm interested in developing sophisticated applications that solve small to important issues in daily life.
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-👀I'm looking to collaborate on Full Stack and AIML Related project. 
 
-To reach me mail me at:
-kowsickkarthik007@gmail.com
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamrudhresh&label=Profile%20views&color=0e75b6&style=flat" alt="kowsick K" /> </p>
+
+- ✌️ Enjoy to do programming and sharing knowledge
+
+- 🥋 I'm a very Passionate For Programming and Problem-Solving Enthusiast. I'm always ready to learn new things with Effective ideas.
+
+- 👨‍💻 Love to learn new technologies and to explore new sets of areas.
+
+- 🔭 I’m currently pursing a **B.E. CSE at [Chennai Institute Of Technology](https://www.citchennai.edu.in/)**
+
+- 🌱 I’m currently learning **Data Structures and Algorithms**
+  
+- 💭👯 I’m looking to collaborate on OpenSource Projects
+
+- 💡 Contributing to Open Source Projects is always been a goal to me.
+
+- 📫 How to reach me **kowsickkarthik007@gmail.com**
 
 Linked in:
 https://www.linkedin.com/in/kowsick-k0710/
