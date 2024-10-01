@@ -1,9 +1,12 @@
+<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+
+```yaml
 name: Kowsick K
 located_in: Tamilnadu,India
 current_job: Full Stack Developer
 education:
   [
-    "Bachelor's in Computer Science Engineering",
+    "Bachelor's in Computer Science Engineering ",
     "Chennai Institute of Technology"
   ]
 
@@ -21,6 +24,9 @@ technical_background:
     "Intern - Software Development",
     "Intern - Web Developer",
   ]
+
+```
+
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm kowsick </h1>
 <p align="center">
