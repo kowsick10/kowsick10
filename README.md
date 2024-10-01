@@ -30,15 +30,7 @@
 Linked in:
 https://www.linkedin.com/in/kowsick-k0710/
 
-## Skills: 
-* 💻 HTML/ CSS /JS
-* 🐍 Python
-* 💻C,C++
-* 📲 Java
-* 💻Designing
-
-
-  📄 Know about my experiences [Resume](https://drive.google.com/file/d/1sdfQxIbfGh53PMauBWz9tsWx6uyP2mAY/view?usp=drivesdk)
+ 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1sdfQxIbfGh53PMauBWz9tsWx6uyP2mAY/view?usp=drivesdk)
 <br>
 <h3 align="left">CONNECT WITH ME</h3>
 <p align="left">
