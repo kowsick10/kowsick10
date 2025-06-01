@@ -59,7 +59,7 @@ technical_background:
 Linked in:
 https://www.linkedin.com/in/kowsick-k0710/
 
- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1sdfQxIbfGh53PMauBWz9tsWx6uyP2mAY/view?usp=drivesdk)
+ 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1-GZ-XYw8jqTGBu2yAVo1LEgzrH7hEBKS/view?usp=sharing)
 <br>
 <h3 align="left">CONNECT WITH ME</h3>
 <p align="left">
