@@ -2,8 +2,8 @@
 
 ```yaml
 name: Kowsick K
-located_in: Tamilnadu,India
-current_job: Full Stack Developer
+locate in: Tamilnadu,India
+current job: Full Stack Developer
 education:
   [
     "Bachelor's in Computer Science Engineering ",
@@ -23,6 +23,7 @@ technical_background:
     "Full Stack Developer"
     "Intern - Software Development",
     "Intern - Web Developer",
+    "Intern - Graphical Designer"
   ]
 
 ```
