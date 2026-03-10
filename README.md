@@ -3,7 +3,6 @@
 ```yaml
 name: Kowsick K
 locate in: Tamilnadu,India
-current job: Full Stack Developer / SAP ABAP Developer
 education:
   [
     "Bachelor's in Computer Science Engineering ",
