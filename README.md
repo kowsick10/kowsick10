@@ -3,7 +3,7 @@
 ```yaml
 name: Kowsick K
 locate in: Tamilnadu,India
-current job: Full Stack Developer
+current job: Full Stack Developer / SAP ABAP Developer
 education:
   [
     "Bachelor's in Computer Science Engineering ",
@@ -15,8 +15,7 @@ fields_of_interests:
     "Web Development",
     "Software Developmant",
     "UI/UX",
-    "Machine Learning",
-    "Game Development",
+    "SAP ABAP Developer",
   ]
 technical_background:
   [
