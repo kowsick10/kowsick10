@@ -100,16 +100,6 @@ https://www.linkedin.com/in/kowsick-k0710/
         <img src="https://skillicons.dev/icons?i=cpp" />
       </a>
       <br>C++
-    </td>
-   
-    </td>
-    <td align="center" width="96" style="background-color: #ffffff;">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=c" />
-      </a>
-      <br>C
-    </td>
-  </tr>
   <tr>
     <th align="left" style="background-color: #ffffff;">Development Stacks</th>
     <td align="center" width="96" style="background-color: #f2f2f2;">
