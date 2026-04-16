@@ -102,7 +102,7 @@ https://www.linkedin.com/in/kowsick-k0710/
       <br>C++
     </td>
         <td align="center" width="96" style="background-color: #f2f2f2;">
-      <a href="https://cdn.iconscout.com/icon/free/png-256/free-sap-logo-icon-svg-download-png-2945134.png">
+      <a href="https://commons.wikimedia.org/wiki/File:SAP_2011_logo.svg">
         <img src="https://www.sap.com/india/index.html"/>
       </a>
       <br>SAP ABAP 
