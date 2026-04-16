@@ -101,6 +101,13 @@ https://www.linkedin.com/in/kowsick-k0710/
       </a>
       <br>C++
     </td>
+        <td align="center" width="96" style="background-color: #f2f2f2;">
+      <a href="https://learning.sap.com/courses/basic-abap-programming">
+        <img src="<img width="1190" height="669" alt="image" src="https://github.com/user-attachments/assets/1abe7c01-9327-465a-bd97-f67c7632ddfa" />
+" />
+      </a>
+      <br>SAP ABAP 
+    </td>
     <td align="center" width="96" style="background-color: #ffffff;">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=c" />
