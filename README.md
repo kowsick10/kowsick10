@@ -101,11 +101,7 @@ https://www.linkedin.com/in/kowsick-k0710/
       </a>
       <br>C++
     </td>
-        <td align="center" width="96" style="background-color: #f2f2f2;">
-      <a href="https://commons.wikimedia.org/wiki/File:SAP_2011_logo.svg">
-        <img src="https://www.sap.com/india/index.html"/>
-      </a>
-      <br>SAP ABAP 
+   
     </td>
     <td align="center" width="96" style="background-color: #ffffff;">
       <a href="https://skillicons.dev">
